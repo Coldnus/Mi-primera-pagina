@@ -215,7 +215,8 @@ footer {
     }
 
     iframe {
-      min-width: 300px;
+      width: 400px;
+      height: 400px;
     }
 }
 
