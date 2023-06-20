@@ -89,7 +89,7 @@ main {
 }
 
 h1 {
-    margin: 10px;
+    margin: 30px;
     margin-bottom: 3%;
     color: #f0f;
     background-color: #ccc;
@@ -187,7 +187,7 @@ footer {
   max-height: 200px;
   background-color: #ccc;
   padding: 20px;
-  margin: 0;
+  margin-top: 100px;
 }
 
 .greeting {
