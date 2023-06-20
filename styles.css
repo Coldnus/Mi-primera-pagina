@@ -214,10 +214,6 @@ footer {
         flex: 100%;
     }
 
-    iframe {
-      width: 400px;
-      height: 400px;
-    }
 }
 
 @media (max-width: 768px) {
@@ -265,6 +261,6 @@ footer {
     }
 
     iframe {
-      max-width: 500px;
+      max-width: 400px;
     }
   }
